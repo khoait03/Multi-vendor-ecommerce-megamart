@@ -5,6 +5,9 @@ kinh doanh, khách hàng chọn mua và thanh toán trực tuyến. Ngoài ra, h
 thống tích hợp chức năng tư vấn trực tuyến, hỗ trợ khách hàng nhận tư
 vấn nhanh chóng từ người bán.
 
+
+<img src="https://github.com/khoait03/Multi-vendor-ecommerce-megamart/raw/main/public/uploads/megamart-demo.png" alt="Megamart Demo" width="900">
+
 # Chi tiết:
 
 Ngôn ngữ lập trình: PHP
