@@ -25,7 +25,10 @@ thanh toán Paypal, Stripe, VNPay, Laragon,...
 
 ## DEMO
 
--   Youtube: https://youtu.be/BjckpoayEcI?si=QpAYRbdiJQKRo3w1
+- Youtube <a href="https://youtu.be/BjckpoayEcI?si=QpAYRbdiJQKRo3w1" target="_blank">
+  https://youtu.be/BjckpoayEcI?si=QpAYRbdiJQKRo3w1
+</a>
+
 
 ## Cài đặt
 
